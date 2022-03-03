@@ -1,3 +1,4 @@
+LOCAL
 # Mergeons
 Je merge
 Tu merges
