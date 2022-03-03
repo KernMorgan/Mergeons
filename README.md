@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LOCAL
 # Mergeons
 Je merge
